@@ -1,4 +1,4 @@
-##Важно
+[Пример](http://aalexeev239.github.io/loveGrunticon/src/index.html)
 
 1. Свг хранятся в `/src/_svg`
 2. За шаблон отвечает `/src/_svg/_template.hbs`
