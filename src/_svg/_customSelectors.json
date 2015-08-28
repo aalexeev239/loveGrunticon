@@ -1,0 +1,10 @@
+{
+  "arrow_slider_left":       [
+                                ".product-previews .owl-prev:before",
+                                ".cart-widget__gallery .owl-prev:before"
+                              ],
+  "arrow_slider_right":      [
+                                ".product-previews .owl-next:before",
+                                ".cart-widget__gallery .owl-next:before"
+                              ]
+}
